@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Religions enemies. With a brief and ingenious relation, as by Anabaptists, Brownists, papists, Familists, Atheists and Foolists, sawcily presuming to tosse religion in a blanquet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95578</idno>
+            <idno type="STC">Wing T503</idno>
+            <idno type="STC">Thomason E176_7</idno>
+            <idno type="STC">ESTC R14891</idno>
+            <idno type="EEBO-CITATION">99859758</idno>
+            <idno type="PROQUEST">99859758</idno>
+            <idno type="VID">111855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111855)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Religions enemies. With a brief and ingenious relation, as by Anabaptists, Brownists, papists, Familists, Atheists and Foolists, sawcily presuming to tosse religion in a blanquet.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Bates in the Old-baily,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to John Taylor.</note>
+                  <note>Illustrated title page.</note>
+                  <note>Annotation on Thomason copy: "all Independants".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111855:1"/>
+            <pb facs="tcp:111855:1" rendition="simple:additions"/>
+            <p>RELIGIONS ENEMIES. WITH A BRIEF AND INGENIOUS Relation, as by <hi>Anabaptists, Browniſts, Papists, Familists, Atheiſts,</hi> and <hi>Fooliſts,</hi> ſawcily preſuming to toſſe Religion in a Blanquet.</p>
+            <figure>
+               <head>
+                  <list>
+                     <item>The Anabaptiſt.</item>
+                     <item>The Browniſt.</item>
+                     <item>The Familiſt.</item>
+                     <item>The Papiſt.</item>
+                  </list>
+               </head>
+               <figDesc>depiction of an Anabaptist, a Brownist, a Familist, and a Papist</figDesc>
+            </figure>
+            <p>Printed at <hi>London</hi> for <hi>Thomas Bates</hi> in the Old-baily. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111855:2"/>
+            <pb n="1" facs="tcp:111855:2"/>
+            <head>RELIGIONS ENEMIES.</head>
+            <head type="sub">WHEREIN IS DESCRIBED ALL their diverſe and erroneous opinions <hi>againſt the truth of the Goſpel.</hi>
+            </head>
+            <p>TO begin to ſome purpoſe in proſe, becauſe nothing to any purpoſe either in Verſe, poetry, Rime, or reaſon is for their ſtomacks, nor are they much affe<g ref="char:EOLhyphen"/>cted with good proſe (for as the Tree is knowne by the fruit it beares, ſo they may be perceived of what ſpirit they are by their ſpeech and writings, and daily libelling. And to the end that I may rather prove my ſelfe a juſt reprehender of their follies, then an impudent rayler at their fooling and ſawcie ignorance, (which in plaine tearmes is no better then malice and madneſſe) I am induced to mix that which is ma<g ref="char:EOLhyphen"/>teriall, true, and ſerious, with ſome things that may ſeeme harſh, tart, and diſtaſtfull to the pallats of theſe curious fu<g ref="char:EOLhyphen"/>rious laviſh Libellers, and peſtiferous platformers: Indeed they doe pretend faire colours for their ſoule intentions, ſtrong proofes for their weake Aſſertions and ſcandalous Aſ<g ref="char:EOLhyphen"/>pertions, their talke being reformation, rectifying, mundify<g ref="char:EOLhyphen"/>ing, clarifying of the Church, and nothing is in their mouthes or pens but rayling and reviling againſt our Church of Eng<g ref="char:EOLhyphen"/>land, the Booke of Common prayer, preaching, Sacraments, Ceremonies, Rites, Orders, Government and Governours; for Governours and Government was inſtituted by the Pa<g ref="char:EOLhyphen"/>triarkes before the Law, by <hi>Moſes,</hi> the prophets and prieſts under the Law, by our Saviour Chriſt Jeſus and his Apoſtles
+<pb n="2" facs="tcp:111855:3"/>and ſucceſſours, ſince the time of the Goſpel, eſtabliſhed, confirmed, and ratified by Scriptures, Generall Councells, Ancient Fathers, Eccleſiaſticall Canons, Martyrs and Con<g ref="char:EOLhyphen"/>feſſours, by Acts of Parliament ordained and decreed, and by all the aforeſaid Authorities continually uſed and daily practiſed within the Church of Chriſt Catholike, Apoſto<g ref="char:EOLhyphen"/>like and Militant over the face of the Earth, and received in<g ref="char:EOLhyphen"/>to this Kingdome when <hi>Lucius</hi> was King heere, and <hi>Flenthe<g ref="char:EOLhyphen"/>rius</hi> was then Biſhop of <hi>Rome,</hi> who was the thirteenth Bi<g ref="char:EOLhyphen"/>ſhop of that See, <hi>Anno</hi> 179. ſo that the Inſtitution and pra<g ref="char:EOLhyphen"/>ct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of our Church and religion hath continued amongſt us neere 1500. yeeres, except when It was eclipſed by popery, even from the neere time of the death of ſome of the Apoſtles or their next ſucceſſours: For Saint <hi>Ierome</hi> ſaith that Saint <hi>Iohn</hi> the Apoſtle and Evangeliſt did live 68 yeeres after our Saviours paſſion, and that he dyed in the yeere of Chriſt 101. and that he out-lived Saint <hi>Paul,</hi> and Saint <hi>Peter,</hi> whom ſome improbable Authors ſay was the firſt Biſhop or Pope of <hi>Rome;</hi> alſo that he ſurvived <hi>Linus, Amatletus;</hi> and to the ninth yeere of <hi>Clement,</hi> the firſt biſhop of <hi>Rome</hi> of that name, ſo that by computation of time, Saint <hi>Iohn</hi> could be no leſſe then 120. yeeres of age when he dyed; ſo that our Church and Church-Government is no Innovation or noveltie, as theſe late licentious Libellers have maliciouſly belyed her.</p>
+            <p>But indeed it is no Innovation or Novelty, for the Church of God and the onely Spouſe of his only beloved Son <hi>Chriſt I ſus</hi> to be deſpiſed, diſperſed, perſecuted, hated, ſcorned, jeer'd contemned, derided, and traduced, for it hath been, is, and will be ever the markes &amp; tokens of the true Church to be known from Heathens, Infidels, pagans, Atheiſts, Mahometans Hereticks, Hypocrites, Schiſmaticks and Sectaries, with the whoſe rabble of the Kingdomes of Satan and Antichriſt, for ſince the beginning the Devill hath been buſie to intrap and deſtroy her.</p>
+            <pb n="3" facs="tcp:111855:3"/>
+            <p> By the word Church I do mean all the faithfull people of God that have ever been created, or that are to be to the end of the world, of what Nation, condition, or ſex ſoever they be, if they make a conſcience, to be obedient to Gods Lawes, and with gladnes embrace the Goſpel of <hi>Ieſus Chriſt,</hi> in whoſe faith if they live here, they are <hi>(in Grace)</hi> his Church militant here, and dying in Gods favour they are, that are ſo departed, &amp; ſhalbe in glory his Church Triumphant hereafter eternall.</p>
+            <p>This Church hath many times bin ſo over-whelm'd with af<g ref="char:EOLhyphen"/>flictions, tribulations and perſecutions, that ſhe ſeemed to be quite ſunke, or ſinking as S. <hi>Peter</hi> was when he walked on the Sea, <hi>Mat.</hi> 14.31. then God in mercy hath ſtill held forth his gracious hand of power, providence, protection and preſerva<g ref="char:EOLhyphen"/>tion, hath ſtill ſupported, held her up, ſtrenthned, comforted and delivered her, ſo that in diſpight of the raging of Tyrants, the rigour of torments, the ſtormes and tempeſts of perſecu<g ref="char:EOLhyphen"/>tion, ſhe hath ſtill reſplendently broken thorow and diſperſt all the obſcure clouds of the Devils malice, ſo that the gates of Hell hath never prevail'd againſt her.</p>
+            <p>This Church was, by the ſubtilty of the Devill, aſſaulted in paradice in the perſons of our firſt Parents; This Church was perſecuted by <hi>Cain</hi> when he murdered his righteous brother <hi>Abel;</hi> this Church was oppoſed and rebelliouſly murmured againſt by <hi>Corah, Da<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>han, Abiram,</hi> and their complices; this Church that was prefigured by the Arke of <hi>Noah</hi> that ſwom and floated when all the world elſe was drowned, &amp; none were ſaved that were not in it, which Arke, maugre all ſtormes and tempeſts, was preſerved and reſted on the mountaine <hi>Ararat,</hi> which was a Type that the true Church doth reſt upon the moſt High: this Church was alſo fore-ſhewed by the Buſh that bur<g ref="char:EOLhyphen"/>ned with fire, &amp; was not conſumed, which prefigured her pre<g ref="char:EOLhyphen"/>ſervation: &amp; this Church was &amp; is as the ſeamles coat of <hi>Chriſt</hi> not to be divided, this is that Church which theſe factius men would ſink, burn, and rend in pieces, they being more merciles
+<pb n="4" facs="tcp:111855:4"/>then the raging waters, their blinde zeale more hot then the violent flaming fire, and their manners and civility farre leſſe then the barbarous ſouldiers.</p>
+            <p>The Arrians, Anabaptiſts, Browniſts, Donatiſts; Erti<g ref="char:EOLhyphen"/>cheans, Familiſts, Marcianiſts, Montaniſts, Nicholaitans. Pelagians, Papiſts, Puritans, Nonatians, and all other ſorts of Hereſies and Sects doe ſtiffely hold and maintaine to their uttermoſt power that every one (in his owne opinion) in each of their Sects are the true Church, and under the colours of a feigned piety they are all in violent oppoſition againſt each other, in a diſunion and diverſity among themſelves, and all in a generall malignant inveterate hatred againſt the Govern<g ref="char:EOLhyphen"/>ment, the Governours, and of the true Church indeed.</p>
+            <p>God hath ordained certaine Orders, Degrees or Functions of men in this Kingdome for the defence, guard, guide, pre<g ref="char:EOLhyphen"/>ſervation and ſalvation of mankind; the firſt is Kings, Prin<g ref="char:EOLhyphen"/>ces, Potentates and Peeres (or Nobility, whoſe wiſdome and power may and have made Lawes and Statutes agreeable to Gods Word, the ſpring and Fountaine of which Lawes are derived from the Law of God: ſecondly, under Kings and Rulers) there are the moſt right Reverend Fathers the Cler<g ref="char:EOLhyphen"/>gie for the Churches Government, and for the directing and guiding of the wandring and ſtraying Flocke of Chriſt, whoſe Learning, wiſdome, gravity, painfull life and example may draw ſoules unto God. And whoſe Office and Authority which they have from and under the King (as from Gods Lieutenant) is ſuch that they by impoſition of hands alwayes have done and doe (as occaſion requires) ordaine Miniſters for the Church, for the preaching of the Word to the people, for prayer for them, and for the true and due adminiſtration of the Sacraments to them; and alſo by their power to main<g ref="char:EOLhyphen"/>taine Order and Decencie in the Congregation, and in their Juriſdictions and charge to admoniſh, reprehend, and excom<g ref="char:EOLhyphen"/>municate all obſtinate and erroneous offenders, and (in fine)
+<pb n="5" facs="tcp:111855:4"/>advance the Word of God, and make it propagate, and to trample on, tread downe, and ſuppreſſe all Hereſies, ſects, ſchiſmes, and needleſſe and impertinent innovations, that might any way diſturb the peace of the Church.</p>
+            <p>Thirdly, the Phyſitian is to be honoured, becauſe hee is Gods Inſtrument for the health and preſervation of the body, but as much as the ſoule (which is immortall) is in value a<g ref="char:EOLhyphen"/>bove the body, which is fraile, tranſitory, and mortall, ſo far is the holy Function of a ſincere and painfull Divine, (who is a phyſitian for the ſoule) to be preferd before any Phyſitian for the Body.</p>
+            <p>And fourthly, the Lawyer is to be reverenced and eſteem'd for he is (or ſhould be) the rule, ſquare, guide, and rectifier of all our temporall Actions, a righter of wrong, a true and im<g ref="char:EOLhyphen"/>partiall Decider and Judger of all matters of debate and con<g ref="char:EOLhyphen"/>troverſies amongſt men, concerning our houſes, lands, debts, touching eſtate or loſſe of limbe or life, and all theſe are com<g ref="char:EOLhyphen"/>priſed under the title of the goods of Fortune; in which, were not the Lawyer expert, the Law it ſelfe is but a dead letter, and of no Force or Vertue: Now, as much as goods and all outward meanes, which are called the goods of <hi>Fortune,</hi> be<g ref="char:EOLhyphen"/>cauſe they are uncertaine, here to day and gone to morrow, are ſhort of the eſtimation of bodily life and health, ſo much is the Lawyer below the Phyſitian in uſe or eſtimation.</p>
+            <p>But men being conſtant in nothing but in wavering incon<g ref="char:EOLhyphen"/>ſtancie, doe in a perverſe and prepoſterous manner begin at the wrong end, and as they doe make more account of body, goods and Fame, then they doe either of their ſoules or ever<g ref="char:EOLhyphen"/>laſting happineſſe, ſo much they eſteeme the Phyſitian and the Lawyer above the Divine; I confeſſe them all to be as worthy of Honour as they are endued with Honeſty, and each of them to be held in as much regard and Reverence as their paines and ſtudies ſhall merit for their true ſervice to God and man; yet, with <hi>Mary,</hi> I humbly deſire to make <hi>choyce of
+<pb n="6" facs="tcp:111855:5"/>the better part which ſhall not be taken from mee,</hi> Luk. 10. and 41.42.</p>
+            <p>In the meane ſpace, (amongſt mutable and contentious ſpirits) Religion is made a Hotch porch, and as ir were toſt in a Blanquet, and too many places of <hi>England</hi> too much <hi>Am<g ref="char:EOLhyphen"/>ſterdamnified</hi> by ſeverall opinions; Religion is now become the common diſcourſe and Table-talke in every Taverne and Ale-houſe, where a man ſhall hardly find five together in one minde, and yet every one preſumes hee is in the right. The Booke of Common prayer which was eſtabliſhed by Act of Parliament by that good and godly King <hi>Edward</hi> the ſixth, and after re-eſtabliſhed by another Parliament, by that un<g ref="char:EOLhyphen"/>paraleld and peerleſſe princeſſe Queen <hi>Elizabeth,</hi> and conti<g ref="char:EOLhyphen"/>nned ſince in the happy Raignes of two gracious Kings in the Church of <hi>England</hi> for the ſervice of God theſe ninetie yeeres; yet one would have it to be caſt out now, holding it a falſe worſhip; another is angry at the veſtments and habits of the Miniſtery; one will not kneele, another will not ſtand, one will ſit downe, one will not bowe, another will not be un<g ref="char:EOLhyphen"/>covered, one holds all good manners to be popery, another that all decencie is ſuperſtitious, another that railes are Ro<g ref="char:EOLhyphen"/>miſh (which is falſe, for the papiſts have no railes in their Churches, nor any thing ſo convenient: One fooliſhly aſ<g ref="char:EOLhyphen"/>ſumes and preſumes to ſave himſelfe, and ſome of his Neigh<g ref="char:EOLhyphen"/>bours too, by his good workes; another will be ſaved by a bare and lazie Faith that will doe no worke at all, and thus religion is puft and blowne to and fro with every wind of do<g ref="char:EOLhyphen"/>ctrine, and as it were toſt in a Blanquet; but of this more largely hereafter in another part which will ſuddenly be prin<g ref="char:EOLhyphen"/>ted, till when and ever it ſhall be my hearty prayers, that as there is but one Shepheard, that God in his gracious good<g ref="char:EOLhyphen"/>neſſe and mercie would make us all one ſheep f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
